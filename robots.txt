@@ -13,5 +13,22 @@ Sitemap: https://suweizhe1124.github.io/baidusitemap.xml
 Sitemap: https://jiaquanpawnshop.github.io/sitemap.xml
 Sitemap: https://jiaquanpawnshop.github.io/baidusitemap.xml
 
+Sitemap: https://wiseaccountingfirm.github.io/sitemap.xml
+Sitemap: https://wiseaccountingfirm.github.io/baidusitemap.xml
+
+
+Sitemap: https://wisesecurityshares.github.io/sitemap.xml
+Sitemap: https://wisesecurityshares.github.io/baidusitemap.xml
+
+
+Sitemap: https://wiselawfirm.github.io/sitemap.xml
+Sitemap: https://wiselawfirm.github.io/baidusitemap.xml
+
+
 Sitemap: https://WiseConstructionCoLtd.github.io/sitemap.xml
 Sitemap: https://WiseConstructionCoLtd.github.io/baidusitemap.xml
+
+
+
+
+Sitemap: https://wiseaccountingfirm.github.io/baidusitemap.xml
