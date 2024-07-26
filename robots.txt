@@ -13,3 +13,5 @@ Sitemap: https://suweizhe1124.github.io/baidusitemap.xml
 Sitemap: https://jiaquanpawnshop.github.io/sitemap.xml
 Sitemap: https://jiaquanpawnshop.github.io/baidusitemap.xml
 
+Sitemap: https://WiseConstructionCoLtd.github.io/sitemap.xml
+Sitemap: https://WiseConstructionCoLtd.github.io/baidusitemap.xml
